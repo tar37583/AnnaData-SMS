@@ -8,7 +8,7 @@ Follow this step-by-step guide to install and run the Capcom6 SMS Gateway app on
 
 ### 📲 Installation Guide  
 
-The recommended way to install the application is from a prebuilt **APK**.  
+The recommended way to install the application is from a [prebuilt **APK**](https://github.com/capcom6/android-sms-gateway/releases).  
 
 ---
 
