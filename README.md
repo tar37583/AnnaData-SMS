@@ -6,19 +6,19 @@ Follow this step-by-step guide to install and run the Capcom6 SMS Gateway app on
 
 ---
 
-### 📲 Installation Guide  
+### Installation Guide  
 
 The recommended way to install the application is from a [prebuilt **APK**](https://github.com/capcom6/android-sms-gateway/releases).  
 
 ---
 
-### 🔍 Prerequisites  
+### Prerequisites  
 
 - Android device with **Android 5.0 (Lollipop)** or later.  
 
 ---
 
-### 🛡️ Required Permissions  
+### Required Permissions  
 
 Grant the following permissions for full functionality:  
 
@@ -28,7 +28,7 @@ Grant the following permissions for full functionality:
 
 ---
 
-### 📦 Installing from APK  
+### Installing from APK  
 
 1. Visit the **Releases** page on GitHub.  
 2. Download the most recent **APK**.  
@@ -41,11 +41,11 @@ Grant the following permissions for full functionality:
 
 ---
 
-### 🌐 Local Server Mode  
+### Local Server Mode  
 
 This mode is ideal for sending messages from a **local network**.  
 
-#### 🔧 Steps to Enable Local Server  
+#### Steps to Enable Local Server  
 
 1. Launch the app on your device.  
 2. Toggle the **Local Server** switch to the **ON** position.  
